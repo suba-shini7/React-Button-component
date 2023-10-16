@@ -1,0 +1,56 @@
+* {
+ margin: 0;
+ padding: 0;
+}
+.App{
+  display: flex;
+}
+.leftdiv{
+  width: 20%;
+ 
+  border: 1px solid #fafbfd ;
+
+  background-color: #f1f1f1 ;
+  }
+  .lfttxt{
+    text-align: center;
+    font-family:'poppins';
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+  }
+  h4 span{
+    color:#F7542E; 
+  }
+  ul{
+    padding-top: 70px;
+    padding-left: 60px;
+  }
+  ul li{
+    list-style: none;
+    padding: 15px;  
+  }
+  ul li a{
+    text-decoration: none;
+    color:#9E9E9E;
+    font-weight: bold;
+  }
+  .rightdiv{
+    width: 80%;
+   
+  }
+  h2{
+    font-weight: lighter;
+    padding-left: 2%;
+    padding-bottom: 3%;
+  }
+  ul li a span{
+    color: #000;
+  }
+.footer{
+  color: #9E9E9E;
+  margin: 30px;
+}
+.footer span{
+  text-decoration: underline;
+}

@@ -1,0 +1,120 @@
+button{
+    padding: 10px 20px ;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 1px solid #33333333;
+    cursor: pointer;
+    box-shadow: 1px 1px 10px -3px rgba(117,116,116,0.75);
+    -webkit-box-shadow: 1px 1px 10px -3px rgba(117,116,116,0.75);
+    -moz-box-shadow: 1px 1px 10px -3px rgba(117,116,116,0.75);
+    margin-left: 30px;
+}
+.empty{
+    background-color:  #E0E0E0;
+    ;
+}
+.hover-empty:hover{
+    background-color:#737373;
+}
+.variant{
+    border: 1px solid blue;
+    background-color: none;
+    color: blue;
+}
+.hover-variant:hover{
+    background-color: #9eabf3;
+}
+.txt{
+    border: 0;
+    color: blue;
+    background-color:white;
+    box-shadow: unset;
+}
+.hover-txt:hover{
+    background-color: #9eabf3;
+}
+.shadow{
+    color:white;
+    background-color:blue;
+    box-shadow: 0;
+}
+.disable{
+    color: #9E9E9E;
+    cursor:no-drop;
+}
+.hover-disable{
+    background-color:white;
+    border:0;
+    box-shadow: unset;
+}
+.icontxt{
+    border: none;
+    color: white;
+    background-color:blue;
+}
+.sm{
+    color:white;
+    background-color:blue;
+ 
+    }
+.md{
+        color:white;
+        background-color:blue;
+      width: 130px;
+        }
+.lg{
+            color:white;
+            background-color:blue;
+          width: 150px;
+            }
+.default
+{
+padding: 10px 20px ;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 1px solid #33333333;
+    cursor: pointer; 
+            }
+.primary{
+                color:white;
+    background-color:rgb(30, 30, 254);
+            }
+ .secondary{
+    color:white;
+    background-color: #455A64;
+ }    
+ .danger{
+    color:white;
+    background-color: rgba(247, 50, 50, 0.929);
+ }       
+ .hover-default
+{
+    background-color:#737373;
+}
+.hover-primary{
+    background-color: blue;
+}
+.hover-secondary{
+    background-color: #1C313A;
+
+}
+.hover-danger{
+    background-color: #9A0007;
+}
+.dflt{
+    display:flex;
+   
+  
+
+}
+.arr{
+     
+    padding-bottom: 20px;
+    width: 50%;
+}
+.distxt{
+    padding: 20px;
+    
+}
+
+
